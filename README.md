@@ -12,7 +12,7 @@
 Credit: Brad Traversy HTML CSS from scratch Udemy course.
 
 <div>
-  <p>Visit the website here: 👉 <a href="https://hotelzeitaku.netlify.app">Link</a>
+  <p>Visit the website here: 👉 <a href="https://willowy-froyo-dbec6f.netlify.app/">Link</a>
 </div>
 
 <hr>
